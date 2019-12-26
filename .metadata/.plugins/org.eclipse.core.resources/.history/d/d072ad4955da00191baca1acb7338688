@@ -1,0 +1,19 @@
+package daz13_methods_Part1;
+
+public class task59 {
+
+	public static void main(String[] args) {
+		
+		
+		payment(40,9);
+		
+
+
+	public static void payment(double hours, double hourPay) {
+		
+		System.out.println("Payment =" + (hours*hourPay));
+	}
+		
+	}
+
+}

@@ -1,0 +1,10 @@
+package day16_ClassAndObject;
+
+public class class_Object {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

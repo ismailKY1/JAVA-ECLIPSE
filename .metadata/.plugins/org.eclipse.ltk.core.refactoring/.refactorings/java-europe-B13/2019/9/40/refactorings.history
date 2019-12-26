@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;aaHolidayTasks.task40&apos; to &apos;task40_41&apos;&#x0D;&#x0A;- Original project: &apos;java-europe-B13&apos;&#x0D;&#x0A;- Original element: &apos;aaHolidayTasks.task40&apos;&#x0D;&#x0A;- Renamed element: &apos;aaHolidayTasks.task40_41&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;task40&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;aaHolidayTasks{task40.java[task40" matchStrategy="1" name="task40_41" qualified="false" references="true" similarDeclarations="false" stamp="1569854785668" textual="false" version="1.0"/>
+</session>

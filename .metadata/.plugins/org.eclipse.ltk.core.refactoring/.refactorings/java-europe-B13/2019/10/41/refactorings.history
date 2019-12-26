@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;day26_ArrayPart3.Task&apos; to &apos;Task_HowManyWords&apos;&#x0D;&#x0A;- Original project: &apos;java-europe-B13&apos;&#x0D;&#x0A;- Original element: &apos;day26_ArrayPart3.Task&apos;&#x0D;&#x0A;- Renamed element: &apos;day26_ArrayPart3.Task_HowManyWords&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Task&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;day26_ArrayPart3{Task.java[Task" matchStrategy="1" name="Task_HowManyWords" qualified="false" references="true" similarDeclarations="false" stamp="1570735934387" textual="false" version="1.0"/>
+</session>

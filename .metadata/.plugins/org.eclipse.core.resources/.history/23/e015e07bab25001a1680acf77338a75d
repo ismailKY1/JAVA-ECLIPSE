@@ -1,0 +1,16 @@
+package day44_exceptions;
+
+public class TryCatch {
+
+	public static void main(String[] args) {
+		
+		String str= "JAVA"; 
+		
+		System.out.println(str.charAt(0));
+		System.out.println(str.charAt(5));
+		System.out.println(str.charAt(61));
+		
+
+	}
+
+}

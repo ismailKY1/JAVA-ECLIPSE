@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;dy43_polymorphism&apos; to &apos;day43_polymorphism&apos;&#x0D;&#x0A;- Original project: &apos;java-europe-B13&apos;&#x0D;&#x0A;- Original element: &apos;java-europe-B13/src/dy43_polymorphism&apos;&#x0D;&#x0A;- Renamed element: &apos;java-europe-B13/src/day43_polymorphism&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;dy43_polymorphism&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;dy43_polymorphism" name="day43_polymorphism" qualified="false" references="true" stamp="1577125836127" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,21 @@
+package day13_methods_Part1;
+
+public class task64 {
+
+	public static void main(String[] args) {
+
+		printPattern(5); 
+	
+
+	}
+	public static void printPattern(int a) {
+		
+		for (int i=1; i<=5;i++) {
+			for (int j=1; j<=i; j++) {
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+		
+	}
+}
